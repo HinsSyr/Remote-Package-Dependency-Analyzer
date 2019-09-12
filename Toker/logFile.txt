@@ -1,0 +1,51 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:45:49 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\Toker"
+     Args: Toker.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      88
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  Toker.cs   namespace                            CStoker     105     582      87
+                  Toker.cs       class                             CToker     110     577      86
+                  Toker.cs    function                             CToker     131       5       1
+                  Toker.cs    function                           openFile     139      13       3
+                  Toker.cs    function                         openString     155      13       3
+                  Toker.cs    function                              close     171       3       1
+                  Toker.cs    function                       removeReturn     177       9       2
+                  Toker.cs    function                       removeReturn     189       9       2
+                  Toker.cs    function                           readLine     201      20       3
+                  Toker.cs    function                            getLine     234      32       6
+                  Toker.cs    function                            extract     273      35       4
+                  Toker.cs    function           mapToOldDoubleQuoteStyle     312      24       4
+                  Toker.cs    function                      extractDQuote     340      30       6
+                  Toker.cs    function                      extractSQuote     374      29       6
+                  Toker.cs    function                     extractComment     407      47       9
+                  Toker.cs    function                        eatCComment     457      30       5
+                  Toker.cs    function               IsGrammarPunctuation     491       7       1
+                  Toker.cs    function                           eatAscii     501      14       3
+                  Toker.cs    function                 eatPunctuationChar     518       5       1
+                  Toker.cs    function                         fillBuffer     526      27       6
+                  Toker.cs    function                             getTok     556      22       4
+                  Toker.cs    function                        peekNextTok     581       7       1
+                  Toker.cs    function                           pushBack     591       3       1
+                  Toker.cs    function                               Main     601      83      11
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  Toker.cs    function                               Main     601      83      11
+
+
+
+    searched     8 dirs
+   processed     1 files

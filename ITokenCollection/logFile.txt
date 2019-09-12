@@ -1,0 +1,30 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:44:28 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\ITokenCollection"
+     Args: ITokenCollection.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       6
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+       ITokenCollection.cs   namespace                              Lexer      49      31       5
+       ITokenCollection.cs   interface                   ITokenCollection      54      19       2
+       ITokenCollection.cs       class              ItokenCollection_test      74       6       2
+       ITokenCollection.cs    function                               Main      76       2       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     8 dirs
+   processed     1 files

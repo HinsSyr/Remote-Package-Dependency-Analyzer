@@ -1,0 +1,35 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:43:40 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\Comm"
+     Args: TestUtilities.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      19
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          TestUtilities.cs   namespace                 MessagePassingComm      40     105      18
+          TestUtilities.cs       class                      TestUtilities      42     103      17
+          TestUtilities.cs    function                        checkResult      46       8       1
+          TestUtilities.cs    function                          checkNull      57      10       2
+          TestUtilities.cs    function                       handleInvoke      76      16       4
+          TestUtilities.cs    function                              title      95       4       1
+          TestUtilities.cs    function                            vbtitle     102       7       2
+          TestUtilities.cs    function                            putLine     112       9       2
+          TestUtilities.cs    function                               Main     127      15       4
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     8 dirs
+   processed     1 files

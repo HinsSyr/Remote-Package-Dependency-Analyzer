@@ -1,0 +1,45 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:42:52 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\Client"
+     Args: MainWindow.xaml.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      60
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        MainWindow.xaml.cs   namespace                          Navigator      49     410      59
+        MainWindow.xaml.cs       class                         MainWindow      51     408      58
+        MainWindow.xaml.cs    function                         MainWindow      59      17       1
+        MainWindow.xaml.cs    function              initializeEnvironment      79       6       1
+        MainWindow.xaml.cs    function        initializeMessageDispatcher      88     155      27
+        MainWindow.xaml.cs    function                      rcvThreadProc     246      14       3
+        MainWindow.xaml.cs    function                             Invoke     256       1       1
+        MainWindow.xaml.cs    function                      Window_Closed     263       8       1
+        MainWindow.xaml.cs    function                     Window_Closing     274       2       1
+        MainWindow.xaml.cs    function                    RemoteTop_Click     285      17       2
+        MainWindow.xaml.cs    function       remoteFiles_MouseDoubleClick     305      13       2
+        MainWindow.xaml.cs    function                     RemoteUp_Click     321      16       2
+        MainWindow.xaml.cs    function        remoteDirs_MouseDoubleClick     344      15       2
+        MainWindow.xaml.cs    function                            Connect     360      21       3
+        MainWindow.xaml.cs    function                     Typetable_func     383      13       2
+        MainWindow.xaml.cs    function                    Dependency_func     398      14       2
+        MainWindow.xaml.cs    function               StrongComponent_func     414      13       2
+        MainWindow.xaml.cs    function                        Browse_Path     429      28       3
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        MainWindow.xaml.cs    function        initializeMessageDispatcher      88     155      27
+
+
+
+    searched     8 dirs
+   processed     1 files

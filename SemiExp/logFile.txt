@@ -1,0 +1,54 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:44:47 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\SemiExp"
+     Args: Semi.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      51
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Semi.cs   namespace                             CSsemi     113     381      50
+                   Semi.cs       class                           CSemiExp     118     376      49
+                   Semi.cs    function                           CSemiExp     133       7       1
+                   Semi.cs    function                             Equals     144       9       1
+                   Semi.cs    function                          FindFirst     157       6       1
+                   Semi.cs    function                           FindLast     166       6       1
+                   Semi.cs    function                           Contains     175       3       1
+                   Semi.cs    function                        GetHashCode     181       3       1
+                   Semi.cs    function                               open     187       3       1
+                   Semi.cs    function                              close     193       3       1
+                   Semi.cs    function                       isTerminator     199      13       2
+                   Semi.cs    function                                get     215       7       1
+                   Semi.cs    function                             IsPunc     225       3       1
+                   Semi.cs    function                     IsOperatorPair     236      16       2
+                   Semi.cs    function                            getSemi     255      26       3
+                   Semi.cs    function                             insert     297       8       2
+                   Semi.cs    function                                Add     308       4       1
+                   Semi.cs    function                                Add     315       4       1
+                   Semi.cs    function                         initialize     322       6       1
+                   Semi.cs    function                              flush     331       3       1
+                   Semi.cs    function                          isComment     337       7       1
+                   Semi.cs    function                            display     347       4       1
+                   Semi.cs    function                         displayStr     354      10       2
+                   Semi.cs    function                              clone     396       8       2
+                   Semi.cs    function                             remove     407       8       2
+                   Semi.cs    function                             remove     418       8       2
+                   Semi.cs    function                               Main     433      58       3
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Semi.cs    function                               Main     433      58       3
+
+
+
+    searched     8 dirs
+   processed     1 files

@@ -1,0 +1,33 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:45:12 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\Server"
+     Args: Server.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      36
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 Server.cs   namespace                          Navigator      37     368      35
+                 Server.cs       class                    NavigatorServer      39     366      34
+                 Server.cs    function                    NavigatorServer      51       5       1
+                 Server.cs    function              initializeEnvironment      59       6       1
+                 Server.cs    function               initializeDispatcher      68     301      25
+                 Server.cs    function                               Main     375      28       4
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 Server.cs    function               initializeDispatcher      68     301      25
+
+
+
+    searched     8 dirs
+   processed     1 files

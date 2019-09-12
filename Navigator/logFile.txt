@@ -1,0 +1,38 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:44:40 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\Navigator"
+     Args: Files.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      27
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  Files.cs   namespace                              Files      32     117      26
+                  Files.cs   interface                           IFileMgr      39      12       4
+                  Files.cs       class                     FileMgrFactory      53      10       2
+                  Files.cs    function                             create      55       6       1
+                  Files.cs       class                       LocalFileMgr      67      75      16
+                  Files.cs    function                       LocalFileMgr      73       3       1
+                  Files.cs    function                           getFiles      79      11       2
+                  Files.cs    function                           FindFile      92      26       6
+                  Files.cs    function                            getDirs     120      11       2
+                  Files.cs    function                             setDir     134       6       1
+                  Files.cs       class                        TestFileMgr     143       6       2
+                  Files.cs    function                               Main     145       2       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     8 dirs
+   processed     1 files

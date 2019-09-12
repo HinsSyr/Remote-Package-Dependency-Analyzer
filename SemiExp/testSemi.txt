@@ -1,0 +1,11 @@
+"abc"
+"\"abc\""
+return tok;
+tok.Append((char)context_.source.next());
+context_ = context;
+
+tok.Append((char)context_.source.next());
+
+
+
+context_ = context;

@@ -1,0 +1,39 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:43:58 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\Display"
+     Args: Display.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      28
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Display.cs   namespace                       CodeAnalysis      47     101      27
+                Display.cs       class                            Display      49      89      24
+                Display.cs    function                            Display      51      10       1
+                Display.cs    function                  displaySemiString      72      11       2
+                Display.cs    function                      displayString      85       7       1
+                Display.cs    function                      displayString      94       4       1
+                Display.cs    function                       displayRules     100       6       2
+                Display.cs    function                     displayActions     108       6       2
+                Display.cs    function                       displayFiles     116       6       2
+                Display.cs    function                   displayDirectory     124       6       2
+                Display.cs    function                               Main     133       2       1
+                Display.cs       class                          StringExt     140       8       2
+                Display.cs    function                           Truncate     142       4       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     8 dirs
+   processed     1 files

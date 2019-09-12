@@ -1,0 +1,35 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:43:47 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\DepAnalysis"
+     Args: DepAnalysis.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      26
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            DepAnalysis.cs   namespace                      DepAnalysisNS      56     126      25
+            DepAnalysis.cs       class                        DepAnalysis      59     106      22
+            DepAnalysis.cs    function                    show_gra_depent      69      13       2
+            DepAnalysis.cs    function                   show_rela_result      85      15       2
+            DepAnalysis.cs    function                                add     102      13       3
+            DepAnalysis.cs    function                              match     118      41      10
+            DepAnalysis.cs    function                       dep_tostring     159       2       3
+            DepAnalysis.cs       class                    DepAnalysisTest     166      15       2
+            DepAnalysis.cs    function                               Main     169       9       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     8 dirs
+   processed     1 files

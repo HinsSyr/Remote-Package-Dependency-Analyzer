@@ -1,0 +1,31 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:44:19 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\FileMg"
+     Args: FileMg.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      11
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 FileMg.cs   namespace                           FileMgNS      53      61      10
+                 FileMg.cs       class                             FileMg      55      39       7
+                 FileMg.cs    function                      get_solu_path      60       4       1
+                 FileMg.cs    function                   find_solu_all_cs      67      25       4
+                 FileMg.cs    function                               Main      98      13       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     8 dirs
+   processed     1 files

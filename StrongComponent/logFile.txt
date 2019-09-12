@@ -1,0 +1,58 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:45:26 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\StrongComponent"
+     Args: StrongComponent.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      69
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        StrongComponent.cs   namespace                    StrongComponent      56     343      68
+        StrongComponent.cs       class                             CsEdge      58      10       4
+        StrongComponent.cs    function                             CsEdge      63       4       1
+        StrongComponent.cs       class                             CsNode      70      59      17
+        StrongComponent.cs    function                             CsNode      81       5       1
+        StrongComponent.cs    function                           addChild      89       3       1
+        StrongComponent.cs    function               getNextUnmarkedChild      95      11       3
+        StrongComponent.cs    function                   hasUnmarkedChild     109      10       3
+        StrongComponent.cs    function                             unmark     120       3       1
+        StrongComponent.cs    function                           ToString     124       3       1
+        StrongComponent.cs       class                          Operation     132      17       3
+        StrongComponent.cs    function                           doNodeOp     136       4       1
+        StrongComponent.cs    function                           doEdgeOp     143       4       1
+        StrongComponent.cs       class                            CsGraph     152     215      39
+              public data: public static int dfn_index = 0 ; 
+        StrongComponent.cs    function                            CsGraph     171       6       1
+        StrongComponent.cs    function                            addNode     181       3       1
+        StrongComponent.cs    function                         clearMarks     187       4       1
+        StrongComponent.cs    function                               walk     194      24       4
+        StrongComponent.cs    function                               walk     221      25       5
+        StrongComponent.cs    function                             tarjan     248      26       5
+        StrongComponent.cs    function                             tarjan     276       8       2
+        StrongComponent.cs    function                        show_strong     287      44       8
+        StrongComponent.cs    function                   showDependencies     335      12       3
+        StrongComponent.cs    function                        SC_tostring     348       8       2
+        StrongComponent.cs    function                               show     358       6       2
+        StrongComponent.cs       class                      demoOperation     372       8       2
+        StrongComponent.cs    function                           doNodeOp     374       4       1
+        StrongComponent.cs       class               Test_StrongComponent     382      17       2
+        StrongComponent.cs    function                               Main     385      11       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+              public data: StrongComponent.cs : 163 - class CsGraph
+                public static int dfn_index = 0 ; 
+
+
+    searched     8 dirs
+   processed     1 files

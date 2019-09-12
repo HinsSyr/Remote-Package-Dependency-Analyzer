@@ -1,0 +1,42 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Wed Dec  5 17:46:08 2018
+     Path: "C:\Users\qb868\Desktop\Pj4\Project3\TypeTable"
+     Args: TypeTable.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      22
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              TypeTable.cs   namespace                        TypeTableNS      52     142      21
+              TypeTable.cs      struct                           TypeItem      60       5       1
+              public data: public File file ; 
+              public data: public Namespace namesp ; 
+              TypeTable.cs       class                          TypeTable      66     106      17
+              TypeTable.cs    function                                add      72      10       2
+              TypeTable.cs    function                                add      83       6       1
+              TypeTable.cs    function                               show      92      13       3
+              TypeTable.cs    function                       getTypeTable     107      42       6
+              TypeTable.cs    function                       tt_to_string     150      20       3
+              TypeTable.cs       class                         Test_table     175      20       2
+              TypeTable.cs    function                               Main     183       9       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+              public data: TypeTable.cs : 61 - struct TypeItem
+                public File file ; 
+              public data: TypeTable.cs : 62 - struct TypeItem
+                public Namespace namesp ; 
+
+
+    searched     9 dirs
+   processed     1 files
