@@ -7,9 +7,7 @@
 
 
 
-====================
- Build Instructions
-====================
+====================Build Instructions====================
 1. You must run Visual Studio as administrator
-2. class library: CsGraph, DependencyAnalysis, Display, Element, FileMgr, IMessagePassingService, Parser, SCC, TestClient,  Toker, TypeTable
+2. class library: AutoTestUnit,Client,Comm,DepAnalysis,Display,Environment,FileMg,ITokenCollection,Navigator,SemiExp,Server,StrongComponent,Toker,TypeAnalysis,TypeTable.
 3. Build rest as console application
